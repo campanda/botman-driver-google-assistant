@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-google-assistant",
+    "name": "campanda/driver-google-assistant",
     "license": "MIT",
     "description": "Google Assistant driver for BotMan",
     "keywords": [
@@ -16,11 +16,14 @@
         {
             "name": "Barry vd. Heuvel",
             "email": "barryvdh@gmail.com"
+        },
+        {
+            "name": "Helmut Hoffer von Ankershoffen",
+            "email": "helmut.hoffer.von.ankershoffen@campanda.com"
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "botman/botman": "~2.0"
+        "php": ">=7.0"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
