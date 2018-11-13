@@ -1,5 +1,5 @@
 {
-    "name": "campanda/driver-google-assistant",
+    "name": "campanda/botman-driver-google-assistant",
     "license": "MIT",
     "description": "Google Assistant driver for BotMan",
     "keywords": [
